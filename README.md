@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='500'>
-    <image href='signature.jpg' width='500'/>
-  </svg>" alt="M. Maas"/>
+  <img src="signature.jpg" alt="M. Maas" width="400"/>
 </p>
 
 # Marcel Maas  
