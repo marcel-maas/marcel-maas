@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://www.marcelmaas.com">
-    <img src="https://raw.githubusercontent.com/marcel-maas/marcel-maas/main/jpeg_10%20White.jpg" alt="M. Maas" width="300"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/marcel-maas/marcel-maas/refs/heads/main/signature.jpg" alt="M. Maas" width="300"/>
 </p>
 
 # Marcel Maas  
