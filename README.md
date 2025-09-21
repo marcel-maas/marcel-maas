@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcel-maas/marcel-maas/refs/heads/main/signature.jpg" alt="M. Maas" width="500" style="pointer-events: none;"/>
+  <img src="signature.jpg" alt="M. Maas" width="500"/>
 </p>
 
 # Marcel Maas  
