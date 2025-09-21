@@ -2,31 +2,38 @@
   <img src="signature.jpg" alt="M. Maas" width="400"/>
 </p>
 
-# Marcel Maas  
+# Marcel Maas
 
-> Building. Breaking. Learning.  
-> Code as craft – simplicity as principle.  
+**Engineering the visible and the invisible.**
 
 ---
 
-### About
-- Developer driven by curiosity  
-- Automating what should never be manual  
-- Exploring systems, networks, and the edges of code  
+### Profile
+I build at the edge where **Frontend clarity** meets **Security resilience**.  
+My work is defined by **precision**, **performance**, and a refusal to accept noise.  
+Every interface, every line of code is treated as an asset — designed to perform, tested to endure.
 
 ---
 
 ### Focus
-- **Languages:** Python, JavaScript  
-- **Tools:** Git, Linux, macOS  
-- **Domains:** Web, Automation, Open Source  
+- **Frontend Development:** HTML, CSS, JavaScript  
+- **Security Mindset:** Web Application Security, Red Team approaches  
+- **Philosophy:** Simplicity as leverage, resilience as baseline  
+
+---
+
+### Perspective
+I document experiments, explore vulnerabilities, and refine the craft of building web applications.  
+My ambition is not only to develop, but to set standards:  
+systems that scale, interfaces that last, and architectures that do not break under pressure.  
 
 ---
 
 ### Connect
-- 🌐 [marcelmaas.com](https://www.marcelmaas.com)  
-- ✖️ [@marcelmaas](https://x.com/marcelmaas)  
+- 🌍 [marcelmaas.com](https://www.marcelmaas.com)  
+- 🐦 [@marcelmaas](https://x.com/marcelmaas)  
+- 💻 [github.com/marcel-maas](https://github.com/marcel-maas)  
 
 ---
 
-*"Always learning. Always building. Always a step deeper."*
+*"Always learning. Always building. Always one step deeper."*
