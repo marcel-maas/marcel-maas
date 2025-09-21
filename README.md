@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://www.marcelmaas.com/signature.png" alt="M. Maas" width="300"/>
+</p>
 
-<!--
-**marcel-maas/marcel-maas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Marcel Maas  
 
-Here are some ideas to get you started:
+> Building. Breaking. Learning.  
+> Code as craft – simplicity as principle.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+- Developer driven by curiosity  
+- Automating what should never be manual  
+- Exploring systems, networks, and the edges of code  
+
+---
+
+### Focus
+- **Languages:** Python, JavaScript  
+- **Tools:** Git, Linux, macOS  
+- **Domains:** Web, Automation, Open Source  
+
+---
+
+### Connect
+- 🌐 [marcelmaas.com](https://www.marcelmaas.com)  
+- ✖️ [@marcelmaas](https://x.com/marcelmaas)  
+
+---
+
+*"Always learning. Always building. Always a step deeper."*
