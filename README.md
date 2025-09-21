@@ -31,8 +31,7 @@ systems that scale, interfaces that last, and architectures that do not break un
 
 ### Connect
 - 🌍 [marcelmaas.com](https://www.marcelmaas.com)  
-- 🐦 [@marcelmaas](https://x.com/marcelmaas)  
-- 💻 [github.com/marcel-maas](https://github.com/marcel-maas)  
+- 𝕏 [@marcelmaas](https://x.com/marcelmaas)  
 
 ---
 
